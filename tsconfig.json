@@ -5,7 +5,10 @@
     "sourceMap": true,
     "noImplicitAny": true,
     "strictNullChecks": true,
-    "noImplicitThis": false
+    "noImplicitThis": false,
+    "outDir": "lib",
+    "declaration": true,
+    "declarationDir": "typings"
   },
    "include": [
       "src"
